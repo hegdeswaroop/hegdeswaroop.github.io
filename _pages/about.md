@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: # <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: 'swaroop dot hegde at uga dot edu' # <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
@@ -27,7 +27,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a fifth year PhD student in the [Department of Mathematics](https://www.math.uga.edu) at University of Georgia. My current research interests are broadly in additive combinatorics, extremal combinatorics and probabilistic methods. My advisor is [Giorgis Petridis](https://www.math.uga.edu/directory/people/giorgis-petridis). Before coming to UGA, I graduated from the National Institute of Science Education and Research (NISER) Bhubaneswar in India, with an Integrated MSc degree in Mathematics.
-
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am a fifth year PhD student in the [Department of Mathematics](https://www.math.uga.edu) at University of Georgia. My current research interests are broadly in additive combinatorics, extremal combinatorics and probabilistic methods. My advisor is [Giorgis Petridis](https://www.math.uga.edu/directory/people/giorgis-petridis). Prior to this, I graduated from the National Institute of Science Education and Research (NISER) Bhubaneswar in India, with an Integrated MSc degree in Mathematics.
