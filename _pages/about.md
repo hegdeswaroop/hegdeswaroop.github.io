@@ -27,6 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am fifth year PhD student at the [Department of Mathematics](https://www.math.uga.edu) at University of Georgia.  My research interests are broadly in additive combinatorics, extremal combinatorics and probabilistic methods.
+I am fifth year PhD student at the [Department of Mathematics](https://www.math.uga.edu) at University of Georgia. My research interests are broadly in additive combinatorics, extremal combinatorics and probabilistic methods.
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
