@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://hegdeswaroop.github.io/sitemap.xml
+Sitemap: https://hegdeswaroop.github.io/hegdeswaroop/sitemap.xml
