@@ -1,12 +1,25 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+description: 
 nav: true
-nav_order: 6
+nav_order: 3
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+## University of Georgia
 
-Organize your courses by years, topics, or universities, however you like!
+* ### Instructor of Record
+  * **MATH 1113: Precalculus** 
+    * Terms: Prof. Spring 2024, Fall 2025
+  * **MATH 2250: Calculus I** 
+    * Terms: Prof. Spring 2025, Fall 2025
+
+* ### Grader
+  * **MATH 4690/6690: Graph Theory** (Spring 2025)
+    * Instructor: Brian McDonald
+  * **MATH 4400/6400: Number Theory** (Fall 2024)
+    * Instructor: Giorgis Petridis
+  * **MATH 3100: Sequences and Series I** (Spring 2021)
+    * Instructor: Pete Clark
+
