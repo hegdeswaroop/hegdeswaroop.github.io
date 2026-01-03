@@ -2,12 +2,11 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Swaroop Hegde # the website title (if blank, full name will be used instead)
+title: blank # the website title (if blank, full name will be used instead)
 first_name: Swaroop
-middle_name: S.
+middle_name:
 last_name: Hegde
-contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+contact_note: # You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -194,7 +193,6 @@ exclude:
   - _books/
   - _pages/blog.md
   - _posts/
-  - _projects/
   - assets/jupyter/blog.ipynb
 keep_files:
   - CNAME
@@ -280,7 +278,7 @@ scholar:
   # Note: if you have latex math in your bibtex, the latex filter
   # preprocessing may conflict with MathJAX if the latter is enabled.
   # See https://github.com/alshedivat/al-folio/issues/357.
-  bibtex_filters: [latex, smallcaps, superscript]
+  bibtex_filters: [smallcaps, superscript]
 
   replace_strings: true
   join_strings: true

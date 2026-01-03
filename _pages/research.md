@@ -9,7 +9,7 @@ nav_order: 2
 
 My current research interests lie broadly in additive combinatorics, extremal combinatorics and probabilistic methods. 
 
-#### publications
+#### Publications
 
 <!-- _pages/publications.md -->
 

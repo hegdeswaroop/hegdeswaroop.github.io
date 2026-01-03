@@ -1,0 +1,37 @@
+# _data/teaching.yml
+
+# SECTION 1: Instructor of Record
+instructor:
+  - title: Precalculus
+    code: MATH 1113
+    info: "Terms: Spring 2026 (x2), Fall 2025 (x2), Summer 2024, Spring 2024 (x2), Spring 2022 (x2), Fall 2021"
+    
+  - title: Calculus I
+    code: MATH 2250
+    info: "Terms: Spring 2025, Fall 2024, Fall 2023, Spring 2023, Fall 2022"
+
+  - title: Online Precalculus
+    code: MATH 1113E
+    info: "Term: Summer 2024"
+
+# SECTION 2: Grader
+grader:
+  - title: Graph Theory
+    code: MATH 4690/6690
+    term: Spring 2025
+    instructor: Brian McDonald
+
+  - title: Number Theory
+    code: MATH 4400/6400
+    term: Fall 2024
+    instructor: Giorgis Petridis
+
+  - title: Probability
+    code: MATH 4600/6600
+    term: Fall 2021
+    instructor: Jason Cantarella
+
+  - title: Sequences & Series
+    code: MATH 3100
+    term: Spring 2021
+    instructor: Pete Clark

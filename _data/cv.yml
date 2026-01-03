@@ -1,97 +1,197 @@
 - title: General Information
   type: map
   contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+    - name: Name
+      value: Swaroop S. Hegde
+    - name: Email
+      value: swaroop.hegde@uga.edu
+    - name: Location
+      value: Athens, GA
+    - name: Advisor
+      value: Giorgis Petridis
+
+- title: Research Interests
+  type: list
+  contents:
+    - Additive Combinatorics
+    - Extremal Combinatorics
+    - Probabilistic Methods in Combinatorics
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Georgia, Athens, GA, USA
-      year: 2021 - current
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+    - year: 2021-Present
+      title: PhD in Mathematics
+      institution: University of Georgia, Athens, GA
+      description: "Advisor: Giorgis Petridis"
+    - year: 2015-2020
+      title: Integrated M.Sc. in Mathematics
+      institution: National Institute of Science Education and Research (NISER), Bhubaneswar, India
+      description: "Master's Thesis: Combinatorics and Representation Theory of Symmetric Groups. Supervisor: Brundaban Sahu"
 
-- title: Experience
+- title: Papers
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+    - year: 2025
+      title: "An Inverse Result for Ruzsa's Inequality on Triple Sumsets"
+      institution: arxiv:2510.20073
+      link: "https://arxiv.org/abs/2510.20073"
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Teaching Experience
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - year: 2021-Present
+      title: Graduate Student Instructor
+      institution: Mathematics Department, University of Georgia
+      description: >
+        Responsible for preparing course notes, delivering lectures, writing exams/quizzes, holding office hours, and managing grades.<br>
+        <strong>Courses Taught:</strong><br>
+        • <em>PreCalculus:</em> Fall 2021, Spring 2023 (x2), Spring 2024 (x2), Summer 2024, Fall 2025 (x2), Spring 2026<br>
+        • <em>Calculus I:</em> Fall 2022, Spring 2023, Fall 2023, Fall 2024, Spring 2025
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
+- title: Selected Graduate Courses
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - Ramsey Theory, Additive Combinatorics I & II, Probabilistic Methods in Combinatorics
+    - Ergodic Theory, The Circle Method, Equations with Prime Variables
+    - Real Analysis I & II, Harmonic Analysis
+    - Algebraic Graph Theory, Quiver Representations, Commutative Algebra
+    - Lie Algebras, Hopf Algebras
+
+
+- title: Selected Reading Projects
+  type: time_table
+  contents:
+    - year: Fall 2023
+      title: "Recent improvements on asymptotics of Ramsey Number R(4,t)"
+      institution: University of Georgia
+      description: "Oral Qualifying Exam. Supervised by Dr. Giorgis Petridis."
+    - year: Fall 2023
+      title: "Kelley-Meka bound for Roth's theorem"
+      institution: University of Georgia
+      description: "Supervised by Dr. Giorgis Petridis."
+    - year: Spring 2023
+      title: "Some recent improvements on Freiman's Theorem"
+      institution: University of Georgia
+      description: "Supervised by Dr. Giorgis Petridis."
+    - year: Fall 2021
+      title: "Polynomial Methods in Combinatorics"
+      institution: University of Georgia
+      description: "Supervised by Dr. Giorgis Petridis."
+    - year: Summer 2019
+      title: "Reflection Groups"
+      institution: Indian Institute of Science, Bangalore
+      description: "Supervised by Dr. Apoorva Khare."
+
+
+- title: Conferences & Workshops
+  type: time_table
+  contents:
+    - year: July 2025
+      title: PCMI 2025 Graduate Summer School on Extremal Combinatorics
+      institution: PCMI, Park City, Utah
+    - year: June 2025
+      title: Graduate Research Workshop in Combinatorics
+      institution: Iowa State University, Ames, Iowa
+    - year: May 2025
+      title: CanaDAM Conference 2025
+      institution: Ottawa, Ontario, Canada
+    - year: May 2025
+      title: Integers Conference 2025
+      institution: University of Georgia, Athens, GA
+    - year: March 2025
+      title: Algebraic and Analytic Methods in Combinatorics
+      institution: SLMath, Berkeley, CA
+    - year: Feb 2025
+      title: "Introductory Workshop - Graph Theory: Extremal, Probabilistic and Structural"
+      institution: SLMath, Berkeley, CA
+    - year: June 2024
+      title: Early-Career Conference in Combinatorics
+      institution: University of Illinois Urbana-Champaign, IL
+    - year: May 2024
+      title: 33rd Cumberland Conference on Combinatorics
+      institution: Mississippi State University, MS
+    - year: June 2023
+      title: Formalization of Mathematics
+      institution: SLMath, Berkeley, CA
+    - year: May 2023
+      title: Integers Conference 2023
+      institution: University of Georgia, Athens, GA
+    - year: June 2017
+      title: ATM-Schools AIS on Representation Theory of Finite Groups
+      institution: Chennai Mathematical Institute, India
+    - year: June 2017
+      title: Madhava Mathematics Camp
+      institution: Indian Statistical Institute, Bangalore, India
+    - year: Dec 2015
+      title: National Science Camp (VIJYOSHI)
+      institution: Kolkata, India
+
+- title: Talks
+  type: time_table
+  contents:
+    - year: Apr 2025
+      title: "An Inverse Result for Ruzsa's Inequality on Triple Sumsets"
+      institution: CanaDAM Conference, Ottawa, Canada
+    - year: May 2025
+      title: "An Inverse Result for Ruzsa's Inequality on Triple Sumsets"
+      institution: Integers Conference, UGA
+    - year: Apr 2025
+      title: "An Inverse Result for Ruzsa's Inequality on Triple Sumsets"
+      institution: Number Theory Seminar, UGA
+    - year: March 2024
+      title: "Asymptotics of Ramsey Number R(4,t)"
+      institution: Oral Qualifying Exam, UGA
+    - year: Oct 2023
+      title: "AKS Algorithm for Primality Testing"
+      institution: Combinatorial Number Theory Reading Seminar, UGA
+    - year: Oct 2023
+      title: "A Polygon Problem"
+      institution: Graduate Student Seminar, UGA
+    - year: Apr 2023
+      title: "The RSK Correspondence"
+      institution: Graduate Student Seminar, UGA
+    - year: Feb 2023
+      title: "Almost Periods of Convolutions and Application to Roth's Theorem"
+      institution: Additive Combinatorics Reading Seminar, UGA
+    - year: Nov 2022
+      title: "Cores and Quotients of Integer Partitions"
+      institution: Graduate Student Seminar, UGA
+    - year: Sept 2021
+      title: "Rédei's Theorem and Szőnyi Method"
+      institution: Polynomial Methods Reading Seminar, UGA
+    - year: Apr 2019
+      title: "Roth's Theorem via Finite Fourier Analysis"
+      institution: Math Seminar, NISER
+    - year: Apr 2018
+      title: "Pebbling the Chessboard"
+      institution: NISER Open Day
+    - year: Feb 2017
+      title: "The Story of Dimension"
+      institution: MathematiX Club, NISER
+    - year: Apr 2016
+      title: "Clock Arithmetic"
+      institution: NISER Open Day (for high school students)
+    - year: Nov 2015
+      title: "Gödel's Incompleteness Theorems"
+      institution: MathematiX Club, NISER
+
+- title: Awards & Honors
+  type: time_table
+  contents:
+    - year: 2024
+      title: David Galewski Outstanding Graduate Teaching Award
+      institution: Mathematics Department, UGA
+    - year: 2024
+      title: Outstanding Teaching Assistant Award
+      institution: Center for Teaching and Learning, UGA
+    - year: 2018
+      title: Certificate of Merit
+      institution: School of Mathematical Sciences, NISER
+      description: For outstanding performance in the Spring 2018 semester.
+    - year: 2015 - 2020
+      title: INSPIRE Scholarship
+      institution: Department of Science and Technology, Government of India
+    - year: 2015
+      title: All-India rank 12116 in IIT-JEE Mains Exam
+      description: Top 1 percentile of all students who appeared for the exam nationwide.
