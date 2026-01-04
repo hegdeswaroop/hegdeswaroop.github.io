@@ -24,10 +24,12 @@
       title: PhD in Mathematics
       institution: University of Georgia, Athens, GA
       description: "Advisor: Giorgis Petridis"
+      location: Athens, GA
     - year: 2015-2020
       title: Integrated M.Sc. in Mathematics
-      institution: National Institute of Science Education and Research (NISER), Bhubaneswar, India
-      description: "Master's Thesis: Combinatorics and Representation Theory of Symmetric Groups. Supervisor: Brundaban Sahu"
+      institution: National Institute of Science Education and Research (NISER)
+      location: Bhubaneswar, India
+      description: ["Master's Thesis: Combinatorics and Representation Theory of Symmetric Groups.", "Advisor: Brundaban Sahu"]
 
 - title: Papers
   type: time_table
