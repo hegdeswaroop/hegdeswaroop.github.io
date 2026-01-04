@@ -636,11 +636,14 @@ jsonresume:
   - work
   - education
   - publications
-  - projects
-  - volunteer
+  # - volunteer
+  - service
   - awards
   - certificates
-  - skills
-  - languages
-  - interests
+  # - skills
+  # - languages
+  - courses
   - references
+  - talks
+  - Conferences/Workshops
+  # - projects
