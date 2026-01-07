@@ -17,16 +17,15 @@ nav_order: 3
         <div class="col-12">
           <div class="d-flex justify-content-between align-items-center mb-1">
              <h5 class="card-title font-weight-bold mb-0">{{ course.title }}</h5>
-             
              <span class="badge text-white" style="background-color: var(--global-theme-color);">
                  {{ course.code }}
              </span>
-             
           </div>
           <p class="card-text mb-1 font-weight-bold" style="font-size: 0.9rem;">
             INSTRUCTOR OF RECORD
           </p>
-          <p class="card-text">{{ course.info }}</p>
+          <!-- <p class="card-text">{{ course.info }}</p>-->
+          <span>{{ course.info }}</span>
         </div>
       </div>
     </div>
@@ -39,7 +38,7 @@ nav_order: 3
         <hr class="my-0">
     </div>
     <div class="col-auto">
-        <h5 class="mb-0 text-muted font-weight-bold text-uppercase">
+        <h5 class="mb-0 font-weight-bold text-uppercase">
             <i class="fas fa-pencil-alt mr-2"></i> Grading & TA
         </h5>
     </div>
