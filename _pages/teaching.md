@@ -38,8 +38,8 @@ nav_order: 3
         <hr class="my-0">
     </div>
     <div class="col-auto">
-        <h5 class="mb-0 font-weight-bold text-uppercase">
-            <i class="fas fa-pencil-alt mr-2"></i> Grading & TA
+        <h5 class="mb-0 font-weight-bold">
+            <!--<i class="fas fa-pencil-alt mr-2"></i>--> Grading & TA
         </h5>
     </div>
     <div class="col">
