@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: 
+description:
 nav: true
 nav_order: 3
 ---
@@ -14,10 +14,7 @@ nav_order: 3
   <div class="card hoverable mb-3 z-depth-1" style="border-left: 5px solid var(--global-theme-color);">
     <div class="card-body">
       <div class="row align-items-center">
-        <div class="col-2 col-md-1 text-center">
-           <i class="fas fa-chalkboard-teacher fa-2x" style="color: var(--global-theme-color);"></i>
-        </div>
-        <div class="col-10 col-md-11">
+        <div class="col-12">
           <div class="d-flex justify-content-between align-items-center mb-1">
              <h5 class="card-title font-weight-bold mb-0">{{ course.title }}</h5>
              
