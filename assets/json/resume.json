@@ -2,7 +2,7 @@
   "basics": {
     "name": "Swaroop Hegde",
     "label": "PhD Candidate in Mathematics",
-    "research interests": "Additive Combinatorics, Extremal Combinatorics, Probabilistic Methods in Combinatorics",
+    "research interests": "Additive Combinatorics, Ramsey Theory, Probabilistic Methods in Combinatorics",
     "image": "",
     "email": "",
     "phone": "",
@@ -152,7 +152,7 @@
     {
       "title": "Simons School and Workshop on Harmonic Analysis and applications to Ramsey theory",
       "date": "2026-06",
-      "organizer": "University of Illinois at Chicago",
+      "organizer": "Rényi Institute, Budapest",
       "url": "https://site.pheedloop.com/event/summerschoolonharmonicanalysisandapplicationstoramseytheory/home/",
       "summary": ""
     },
@@ -415,7 +415,7 @@
       "position": "Volunteer for Sonia Kovalesky Day",
       "url": "https://www.math.uga.edu/events/content/2026/sonia-kovalevsky-day-2026",
       "startDate": "2026-04-25",
-      "endDate": "",
+      "endDate": "2026-04-25",
       "summary": "",
       "highlights": []
     },
