@@ -29,7 +29,7 @@ latest_posts:
 
 Hello! I am a PhD student in the [Department of Mathematics](https://www.math.uga.edu) at University of Georgia, in Athens, Georgia, USA. My advisor is [Giorgis Petridis](https://www.math.uga.edu/directory/people/giorgis-petridis). I will be graduating in May 2027 and am currently in the job market.
 
-My current research interests lie broadly in additive combinatorics, Ramsey theory and probabilistic method in combinatorics.
+My current research interests broadly include additive combinatorics, Ramsey theory and probabilistic method in combinatorics.
 
 Prior to this, I graduated from the National Institute of Science Education and Research ([NISER](https://www.niser.ac.in/)), Bhubaneswar, India, with an Integrated MSc degree in Mathematics.
 
