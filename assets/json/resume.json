@@ -1,16 +1,16 @@
 {
   "basics": {
-    "name": "Swaroop Hegde",
+    "name": "Swaroop S. Hegde",
     "label": "PhD Candidate in Mathematics",
     "research interests": "Additive Combinatorics, Ramsey Theory, Probabilistic Methods in Combinatorics",
     "image": "",
-    "email": "",
+    "email": "swaroop.hegde@uga.edu",
     "phone": "",
-    "url": "",
+    "url": "hegdeswaroop.github.io",
     "summary": "",
     "location": {
       "address": "",
-      "postalCode": "GA",
+      "postalCode": "GA, United States",
       "city": "Athens",
       "countryCode": "US",
       "region": "Georgia"
@@ -19,17 +19,20 @@
   },
   "education": [
     {
-      "institution": "University of Georgia, Athens, GA",
+      "_id": "edu-uga-phd",
+      "institution": "University of Georgia",
       "location": "Athens, GA",
       "url": "https://www.math.uga.edu/",
       "area": "Mathematics",
       "studyType": "PhD",
+      "advisor": "Giorgis Petridis",
       "startDate": "2021",
       "endDate": "",
       "score": "",
       "courses": []
     },
     {
+      "_id": "edu-niser-msc",
       "institution": "National Institute of Science Education and Research (NISER)",
       "location": "Bhubaneswar, India",
       "url": "https://www.niser.ac.in/",
@@ -37,18 +40,20 @@
       "studyType": "Integrated M.Sc.",
       "startDate": "2015",
       "endDate": "2020",
+      "advisor": "Brundaban Sahu",
       "score": "",
       "courses": ["Master's Thesis: Combinatorics and Representation Theory of Symmetric Groups"]
     }
   ],
   "work": [
     {
+      "_id": "work-uga-graduate-instructor",
       "name": "Universiy of Georgia",
-      "position": "Graduate Student Instructor",
+      "position": "Graduate Instructor",
       "url": "https://www.math.uga.edu/",
       "startDate": "2021-08-01",
       "endDate": "",
-      "summary": "Responsible for most aspects of the course including preparing course notes, delivering lectures, writing exams and quizzes, holding office hours and managing grades.",
+      "summary": "Responsible for most aspects of the following courses including preparing course notes, delivering lectures, writing exams and quizzes, holding office hours and managing grades.",
       "highlights": [
         "Calculus I (Math 2250): Spring 2025, Fall 2024, Fall 2023, Spring 2023, Fall 2022",
         "PreCalculus (Math 1113): Fall 2026 (x2), Spring 2026 (x2), Fall 2025 (x2), Spring 2024 (x2), Spring 2022 (x2), Fall 2021",
@@ -58,6 +63,7 @@
   ],
   "awards": [
     {
+      "_id": "award-galewski-teaching-2024",
       "title": "David Galewski Outstanding Graduate Teaching Award",
       "date": "2024-04-01",
       "awarder": "Mathematics Department, University of Georgia",
@@ -65,6 +71,7 @@
       "summary": ""
     },
     {
+      "_id": "award-uga-outstanding-ta-2024",
       "title": "Outstanding Teaching Assistant Award",
       "date": "2024-03-01",
       "awarder": "Center for Teaching and Learning, University of Georgia",
@@ -72,6 +79,7 @@
       "summary": ""
     },
     {
+      "_id": "award-niser-certificate-merit-2018",
       "title": "Certificate of Merit",
       "date": "2018-09-01",
       "awarder": "School of Mathematical Sciences, NISER",
@@ -79,6 +87,7 @@
       "summary": "For outstanding performance in the Spring 2018 semester."
     },
     {
+      "_id": "award-inspire-scholarship-2015",
       "title": "INSPIRE Scholarship Award",
       "date": "2015-01-01",
       "awarder": "Department of Science and Technology, Govt. of India",
@@ -88,6 +97,7 @@
   ],
   "publications": [
     {
+      "_id": "pub-schur-like-2026",
       "name": "Refined upper bounds on Schur-like numbers",
       "publisher": "S. Hegde, A. Lott, G. Petridis, N. R. Ponagandla",
       "releaseDate": "2026-08",
@@ -95,6 +105,7 @@
       "summary": "arXiv preprint arXiv:2608.03661"
     },
     {
+      "_id": "pub-furstenberg-sarkozy-2026",
       "name": "Extensions of the Furstenberg-Sárközy theorem via the arithmetic level-d inequality",
       "publisher": "C. F. E. Adajar, R. Agrawal, M. R. Choudhuri, C. Y. Chuah, S. Fan, S. Hegde, A. Lott, K. Nandakumar, and N. R. Ponagandla",
       "releaseDate": "2026-05",
@@ -102,8 +113,9 @@
       "summary": "arXiv preprint arXiv:2605.16216"
     },
     {
+      "_id": "pub-ruzsa-triple-sumsets-2025",
       "name": "An Inverse Result for Ruzsa's Inequality on Triple Sumsets",
-      "publisher": "S.Hegde",
+      "publisher": "S. Hegde",
       "releaseDate": "2025-10",
       "url": "https://arxiv.org/abs/2510.20073",
       "summary": "arXiv preprint arXiv:2510.20073"
@@ -111,6 +123,7 @@
   ],
   "courses": [
     {
+      "_id": "coursework-graduate",
       "name": "Selected Graduate Courses",
       "icon": "",
       "keywords": [
@@ -129,6 +142,7 @@
       ]
     },
     {
+      "_id": "coursework-reading",
       "name": "Selected Reading Courses",
       "icon": "",
       "keywords": [
@@ -143,6 +157,7 @@
   "certificates": [],
   "Conferences/Workshops": [
     {
+      "_id": "conf-gwlc-2026",
       "title": "Graduate Workshop in Logic and Combinatorics",
       "date": "2026-08",
       "organizer": "University of Illinois at Chicago",
@@ -150,6 +165,7 @@
       "summary": ""
     },
     {
+      "_id": "conf-icgta-2026",
       "title": "International Conference on Graph Theory and its Applications (ICGTA 2026)",
       "date": "2026-06",
       "organizer": "Presidency University, Bangalore, India",
@@ -157,6 +173,7 @@
       "summary": ""
     },
     {
+      "_id": "conf-simons-harmonic-ramsey-2026",
       "title": "Simons School and Workshop on Harmonic Analysis and applications to Ramsey theory",
       "date": "2026-06",
       "organizer": "Rényi Institute, Budapest, Hungary",
@@ -164,6 +181,7 @@
       "summary": ""
     },
     {
+      "_id": "conf-simons-discrete-harmonic-ant-2026",
       "title": "Simons School and Workshop on Discrete Harmonic Analysis and Analytic Number Theory",
       "date": "2026-05",
       "organizer": "Rényi Institute, Budapest, Hungary",
@@ -171,6 +189,7 @@
       "summary": ""
     },
     {
+      "_id": "conf-gscc-2026",
       "title": "Graduate Student Combinatorics Conference",
       "date": "2026-03",
       "organizer": "University of Illinois at Chicago",
@@ -178,6 +197,7 @@
       "summary": ""
     },
     {
+      "_id": "conf-pcmi-2025",
       "title": "PCMI 2025 Graduate Summer School on Extremal Combinatorics and Probabilistic Methods",
       "date": "2025-07",
       "organizer": "PCMI, Park City, Utah",
@@ -185,6 +205,7 @@
       "summary": ""
     },
     {
+      "_id": "conf-grwc-2025",
       "title": "Graduate Research Workshop in Combinatorics",
       "date": "2025-06",
       "organizer": "Iowa State University, Ames, Iowa",
@@ -192,6 +213,7 @@
       "summary": ""
     },
     {
+      "_id": "conf-canadam-2025",
       "title": "CanaDAM Conference 2025",
       "date": "2025-05",
       "organizer": "Ottawa, Ontario, Canada",
@@ -199,6 +221,7 @@
       "summary": ""
     },
     {
+      "_id": "conf-integers-2025",
       "title": "Integers Conference 2025",
       "date": "2025-05",
       "organizer": "University of Georgia, Athens, GA",
@@ -206,6 +229,7 @@
       "summary": ""
     },
     {
+      "_id": "conf-slmath-algebraic-analytic-2025",
       "title": "Algebraic and Analytic Methods in Combinatorics",
       "date": "2025-03",
       "organizer": "SLMath, Berkeley, CA",
@@ -213,6 +237,7 @@
       "summary": ""
     },
     {
+      "_id": "conf-slmath-graph-theory-2025",
       "title": "Introductory Workshop - Graph Theory: Extremal, Probabilistic and Structural",
       "date": "2025-02",
       "organizer": "SLMath, Berkeley, CA",
@@ -220,6 +245,7 @@
       "summary": ""
     },
     {
+      "_id": "conf-eccc-2024",
       "title": "Early-Career Conference in Combinatorics",
       "date": "2024-06",
       "organizer": "University of Illinois Urbana-Champaign, IL",
@@ -227,6 +253,7 @@
       "summary": ""
     },
     {
+      "_id": "conf-cumberland-2024",
       "title": "33rd Cumberland Conference on Combinatorics, Graph Theory & Computing",
       "date": "2024-05",
       "organizer": "Mississippi State University, MS",
@@ -234,6 +261,7 @@
       "summary": ""
     },
     {
+      "_id": "conf-formalization-2023",
       "title": "Formalization of Mathematics",
       "date": "2023-06",
       "organizer": "SLMath, Berkeley, CA",
@@ -241,6 +269,7 @@
       "summary": ""
     },
     {
+      "_id": "conf-integers-2023",
       "title": "Integers Conference 2023",
       "date": "2023-05",
       "organizer": "University of Georgia, Athens, GA",
@@ -248,6 +277,7 @@
       "summary": ""
     },
     {
+      "_id": "conf-atm-representation-2017",
       "title": "ATM-Schools AIS on Representation Theory of Finite Groups",
       "date": "2017-06",
       "organizer": "Chennai Mathematical Institute, Chennai, India",
@@ -255,6 +285,7 @@
       "summary": ""
     },
     {
+      "_id": "conf-madhava-camp-2017",
       "title": "Madhava Mathematics Camp",
       "date": "2017-06",
       "organizer": "Indian Statistical Institute, Bangalore, India",
@@ -262,6 +293,7 @@
       "summary": ""
     },
     {
+      "_id": "conf-vijyoshi-2015",
       "title": "National Science Camp (VIJYOSHI)",
       "date": "2015-12",
       "organizer": "Kolkata, India",
@@ -271,6 +303,7 @@
   ],
   "talks": [
     {
+      "_id": "talk-schur-uga-analysis-2026",
       "title": "Generalized Schur Numbers",
       "event": "UGA Analysis Seminar",
       "date": "2026-09",
@@ -278,6 +311,7 @@
       "summary": ""
     },
     {
+      "_id": "talk-ruzsa-gscc-2026",
       "title": "An Inverse Result for Ruzsa's Inequality on Triple Sumsets",
       "event": "Graduate Student Combinatorics Conference, University of Illinois at Chicago",
       "date": "2026-03",
@@ -285,6 +319,7 @@
       "summary": ""
     },
     {
+      "_id": "talk-ruzsa-iowa-state-2025",
       "title": "An Inverse Result for Ruzsa's Inequality on Triple Sumsets",
       "event": "Discrete Math Seminar, Iowa State University (virtual)",
       "date": "2025-10",
@@ -292,6 +327,7 @@
       "summary": ""
     },
     {
+      "_id": "talk-ruzsa-canadam-2025",
       "title": "An Inverse Result for Ruzsa's Inequality on Triple Sumsets",
       "event": "CanaDAM Conference, Ottawa, Canada",
       "date": "2025-05",
@@ -299,6 +335,7 @@
       "summary": ""
     },
     {
+      "_id": "talk-ruzsa-integers-2025",
       "title": "An Inverse Result for Ruzsa's Inequality on Triple Sumsets",
       "event": "Integers Conference, UGA",
       "date": "2025-05",
@@ -306,6 +343,15 @@
       "summary": ""
     },
     {
+      "_id": "talk-ramsey-uga-2024",
+      "title": "Ramsey number R(4,k)",
+      "event": "Oral Qualifying Exam Presentation, UGA",
+      "date": "2024-03",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "_id": "talk-aks-uga-2023",
       "title": "AKS Algorithm for Primality Testing",
       "event": "Combinatorial Number Theory Reading Seminar, UGA",
       "date": "2023-10",
@@ -313,6 +359,7 @@
       "summary": ""
     },
     {
+      "_id": "talk-polygon-uga-2023",
       "title": "A Polygon Problem",
       "event": "Graduate Student Seminar, UGA",
       "date": "2023-10",
@@ -320,6 +367,7 @@
       "summary": ""
     },
     {
+      "_id": "talk-rsk-uga-2023",
       "title": "The RSK Correspondence",
       "event": "Graduate Student Seminar, UGA",
       "date": "2023-04",
@@ -327,6 +375,7 @@
       "summary": ""
     },
     {
+      "_id": "talk-almost-periods-uga-2023",
       "title": "Almost Periods of Convolutions and Application to Roth's Theorem",
       "event": "Additive Combinatorics Reading Seminar, UGA",
       "date": "2023-02",
@@ -334,6 +383,7 @@
       "summary": ""
     },
     {
+      "_id": "talk-cores-quotients-uga-2022",
       "title": "Cores and Quotients of Integer Partitions",
       "event": "Graduate Student Seminar, UGA",
       "date": "2022-11",
@@ -341,6 +391,7 @@
       "summary": ""
     },
     {
+      "_id": "talk-redei-szonyi-uga-2021",
       "title": "Rédei's Theorem and Szőnyi Method",
       "event": "Polynomial Methods Reading Seminar, UGA",
       "date": "2021-09",
@@ -348,6 +399,7 @@
       "summary": ""
     },
     {
+      "_id": "talk-roth-niser-2019",
       "title": "Roth's Theorem via Finite Fourier Analysis",
       "event": "Math Seminar, NISER",
       "date": "2019-04",
@@ -355,6 +407,7 @@
       "summary": ""
     },
     {
+      "_id": "talk-pebbling-niser-2018",
       "title": "Pebbling the Chessboard",
       "event": "NISER Open Day",
       "date": "2018-04",
@@ -362,6 +415,7 @@
       "summary": ""
     },
     {
+      "_id": "talk-dimension-niser-2017",
       "title": "The Story of Dimension",
       "event": "MathematiX Club, NISER",
       "date": "2017-02",
@@ -369,6 +423,7 @@
       "summary": ""
     },
     {
+      "_id": "talk-clock-arithmetic-niser-2016",
       "title": "Clock Arithmetic",
       "event": "NISER Open Day (for high school students)",
       "date": "2016-04",
@@ -376,6 +431,7 @@
       "summary": ""
     },
     {
+      "_id": "talk-godel-niser-2015",
       "title": "Gödel's Incompleteness Theorems",
       "event": "MathematiX Club, NISER",
       "date": "2015-11",
@@ -398,35 +454,25 @@
   ],
   "mentoring": [
     {
-      "name": "Formalizing Mathematics in LEAN",
-      "summary": "Directed Reading Program (DRP), UGA Math Department ",
-      "highlights": ["Student: Yan Heng (UGA Undergraduate)"],
-      "startDate": "2026-01",
-      "endDate": "2026-04",
-      "url": ""
-    },
-    {
-      "name": "Applications of Entropy in Combinatorics",
-      "summary": "Directed Reading Program (DRP), UGA Math Department ",
-      "highlights": ["Student: Benjamin Wang-Tie (UGA Undergraduate)"],
-      "startDate": "2025-01",
-      "endDate": "2025-04",
-      "url": ""
-    },
-    {
-      "name": "Mathematics of Card Shuffling",
-      "summary": "Directed Reading Program (DRP), UGA Math Department ",
-      "highlights": ["Student: Aakash Khanal (UGA Undergraduate)"],
+      "_id": "mentor-drp-uga",
+      "name": "Directed Reading Program, UGA Math Department",
+      "summary": "Mentored UGA undergraduate students on various projects",
+      "highlights": [
+        "Yan Heng: Formalization of Mathematics in LEAN, Spring 2026",
+        "Benjamin Wang-Tie: Applications of Entropy in Combinatorics, Spring 2025",
+        "Aakash Khanal: Mathematics of Card Shuffling, Summer 2021"
+      ],
       "startDate": "2021-06",
-      "endDate": "2021-07",
+      "endDate": "",
       "url": ""
     }
   ],
   "volunteer": [],
   "service": [
     {
+      "_id": "service-sonia-kovalevsky-2026",
       "organization": "University of Georgia",
-      "position": "Volunteer for Sonia Kovalesky Day",
+      "position": "Volunteer for Sonia Kovalesky Day on ",
       "url": "https://www.math.uga.edu/events/content/2026/sonia-kovalevsky-day-2026",
       "startDate": "2026-04-25",
       "endDate": "2026-04-25",
@@ -434,6 +480,7 @@
       "highlights": []
     },
     {
+      "_id": "service-grad-seminar-organizer-2025",
       "organization": "Mathematics Department, University of Georgia",
       "position": "Co-organizer of the Graduate Student Seminar",
       "url": "",
@@ -443,6 +490,7 @@
       "highlights": []
     },
     {
+      "_id": "service-precalculus-working-group-2024",
       "organization": "Mathematics Department, University of Georgia",
       "position": "Co-facilitator of the Precalculus community working group",
       "url": "",
@@ -452,6 +500,7 @@
       "highlights": []
     },
     {
+      "_id": "service-high-school-math-tournament-2023-2024",
       "organization": "University of Georgia",
       "position": "Volunteer for High School Math Tournament",
       "url": "",
@@ -461,6 +510,7 @@
       "highlights": []
     },
     {
+      "_id": "service-peer-mentor-2023-2025",
       "organization": "Mathematics Department, University of Georgia",
       "position": "Peer Mentor for first year graduate students",
       "url": "",
@@ -470,6 +520,7 @@
       "highlights": []
     },
     {
+      "_id": "service-ams-secretary-2022-2023",
       "organization": "Mathematics Department, University of Georgia",
       "position": "Secretary of Student Chapter of AMS",
       "url": "",
