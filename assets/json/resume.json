@@ -48,8 +48,8 @@
   "work": [
     {
       "_id": "work-uga-graduate-instructor",
-      "name": "Universiy of Georgia",
-      "position": "Graduate Instructor",
+      "name": "University of Georgia",
+      "position": "Instructor of Record",
       "url": "https://www.math.uga.edu/",
       "startDate": "2021-08-01",
       "endDate": "",
@@ -65,7 +65,7 @@
     {
       "_id": "award-galewski-teaching-2024",
       "title": "David Galewski Outstanding Graduate Teaching Award",
-      "date": "2024-04-01",
+      "date": "2024-04",
       "awarder": "Mathematics Department, University of Georgia",
       "url": "https://www.math.uga.edu/awards-given-graduate-students",
       "summary": ""
@@ -73,7 +73,7 @@
     {
       "_id": "award-uga-outstanding-ta-2024",
       "title": "Outstanding Teaching Assistant Award",
-      "date": "2024-03-01",
+      "date": "2024-03",
       "awarder": "Center for Teaching and Learning, University of Georgia",
       "url": "https://www.math.uga.edu/awards-given-graduate-students",
       "summary": ""
@@ -81,21 +81,29 @@
     {
       "_id": "award-niser-certificate-merit-2018",
       "title": "Certificate of Merit",
-      "date": "2018-09-01",
+      "date": "2018-09",
       "awarder": "School of Mathematical Sciences, NISER",
       "url": "",
       "summary": "For outstanding performance in the Spring 2018 semester."
     },
     {
       "_id": "award-inspire-scholarship-2015",
-      "title": "INSPIRE Scholarship Award",
-      "date": "2015-01-01",
+      "title": "INSPIRE Scholarship Award (2015-2020)",
+      "date": "2015-08",
       "awarder": "Department of Science and Technology, Govt. of India",
       "url": "https://online-inspire.gov.in/?returnUrl=%2FScholarshipApplicationForm%2FIndex#",
       "summary": ""
     }
   ],
   "publications": [
+    {
+      "_id": "pub-rainbow-schur-2026",
+      "name": "A somewhat sure note on an un-Schur problem",
+      "publisher": "S. Hegde, H. Kumar, Pratibha",
+      "releaseDate": "2026-09",
+      "url": "https://arxiv.org/abs/2609.18474",
+      "summary": "arXiv preprint arXiv:2609.18474"
+    },
     {
       "_id": "pub-schur-like-2026",
       "name": "Refined upper bounds on Schur-like numbers",
@@ -181,8 +189,8 @@
       "summary": ""
     },
     {
-      "_id": "conf-simons-discrete-harmonic-ant-2026",
-      "title": "Simons School and Workshop on Discrete Harmonic Analysis and Analytic Number Theory",
+      "_id": "conf-simons-harmonic-ant-2026",
+      "title": "Simons School and Workshop on Harmonic Analysis and Analytic Number Theory",
       "date": "2026-05",
       "organizer": "Rényi Institute, Budapest, Hungary",
       "url": "https://site.pheedloop.com/event/summerschooldiscreteharmonicanalysisandanalyticnumbertheory/home/",
@@ -232,7 +240,7 @@
       "_id": "conf-slmath-algebraic-analytic-2025",
       "title": "Algebraic and Analytic Methods in Combinatorics",
       "date": "2025-03",
-      "organizer": "SLMath, Berkeley, CA",
+      "organizer": "SLMath, Berkeley, California",
       "url": "https://www.slmath.org/workshops/1091",
       "summary": ""
     },
@@ -240,7 +248,7 @@
       "_id": "conf-slmath-graph-theory-2025",
       "title": "Introductory Workshop - Graph Theory: Extremal, Probabilistic and Structural",
       "date": "2025-02",
-      "organizer": "SLMath, Berkeley, CA",
+      "organizer": "SLMath, Berkeley, California",
       "url": "https://www.slmath.org/workshops/1088",
       "summary": ""
     },
@@ -264,7 +272,7 @@
       "_id": "conf-formalization-2023",
       "title": "Formalization of Mathematics",
       "date": "2023-06",
-      "organizer": "SLMath, Berkeley, CA",
+      "organizer": "SLMath, Berkeley, California",
       "url": "https://www.slmath.org/summer-schools/1021",
       "summary": ""
     },
@@ -458,7 +466,7 @@
       "name": "Directed Reading Program, UGA Math Department",
       "summary": "Mentored UGA undergraduate students on various projects",
       "highlights": [
-        "Yan Heng: Formalization of Mathematics in LEAN, Spring 2026",
+        "Yan Heng: Formalization of Mathematics in Lean, Spring 2026",
         "Benjamin Wang-Tie: Applications of Entropy in Combinatorics, Spring 2025",
         "Aakash Khanal: Mathematics of Card Shuffling, Summer 2021"
       ],
@@ -472,7 +480,7 @@
     {
       "_id": "service-sonia-kovalevsky-2026",
       "organization": "University of Georgia",
-      "position": "Volunteer for Sonia Kovalesky Day",
+      "position": "Volunteer for Sonia Kovalevsky Day",
       "url": "https://www.math.uga.edu/events/content/2026/sonia-kovalevsky-day-2026",
       "startDate": "2026-04-25",
       "endDate": "2026-04-25",
@@ -531,5 +539,18 @@
     }
   ],
   "references": [],
-  "projects": []
+  "projects": [
+    {
+      "_id": "project-online-vW-grwc",
+      "name": "Online and size van der Waerden Numbers",
+      "url": "https://www.math.uga.edu/",
+      "startDate": " ",
+      "endDate": " ",
+      "summary": "",
+      "highlights": [
+        "Collaborators: R. Agrawal, P. Horn, D. King, B. Lidický, G. McCourt, F. Pfender, S. Zerbib.",
+        "Started during Graduate Research Workshop in Combinatorics 2025 at Ames, Iowa."
+      ]
+    }
+  ]
 }
